@@ -12,6 +12,8 @@ html
 
 <p>Welcome to our website!</p><!---New Line added---->
 
+<h1>Welcome to our website!</h1><!----Updated heading---->
+
 </body>
 </html>
  
